@@ -1,0 +1,5 @@
+
+flask==3.0.0
+scikit-learn==1.2.2
+spacy==3.5.0
+ru-core-news-sm==3.8.0
